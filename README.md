@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aditya Chaturvedi
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript and NodeJS
+- 📫 How to reach me chaturvedias93@gmail.com
